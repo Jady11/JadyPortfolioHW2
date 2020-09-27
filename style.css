@@ -11,3 +11,16 @@ h1 {
 #bioText {
     color: white;
 }
+#name {
+    color: white;
+}
+#email {
+    color: white;
+}
+#message {
+    color: white;
+} 
+h2 {
+    color: white;
+    text-align: center;
+}
